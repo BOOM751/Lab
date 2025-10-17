@@ -1,3 +1,4 @@
+//вариант10
 import java.util.*;
 
 public class lab5 {
@@ -64,3 +65,4 @@ public class lab5 {
 
     }
 }
+
